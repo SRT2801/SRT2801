@@ -49,9 +49,3 @@
 </div>
 
 ###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/SRT2801/SRT2801/output/snake.svg" alt="Snake animation" />
-
-###
